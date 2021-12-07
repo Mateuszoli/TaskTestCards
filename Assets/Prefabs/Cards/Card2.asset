@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f19a6f0eb94b3ee4887cc4bb9784808b, type: 3}
   m_Name: Card2
   m_EditorClassIdentifier: 
-  affectManaValue: 2
-  affectHPValue: 2
-  attackValue: 1
+  affectManaValue: 3
+  affectHPValue: 5
+  attackValue: 2
